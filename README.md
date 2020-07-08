@@ -120,6 +120,6 @@ And now we can access the services through this gateway. I request
 you to start multiple instances of the **redis-springboot-demo**. So you can see that the requests are 
 forwarding to the multiple instances to balance the load.
 
-<p style="align-content: center">
+<p align="center">
   <b>Thank You</b>
 </p>
