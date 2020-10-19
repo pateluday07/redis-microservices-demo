@@ -60,7 +60,7 @@ open terminal
    or go to the `/redis-microservices-demo/eureka-server/src/main/java/com/eurekaserver` directory and run the **EurekaServerApplication** class.
        
 And now we can access the **Eureka Server** on this link: 
-[Eureka Server] (http://localhost:8761/)
+[Eureka Server](http://localhost:8761/)
 
 You will see here registered **Services** and **Zuul API Gateway** 
 once we start them.
